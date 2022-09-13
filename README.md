@@ -1,8 +1,10 @@
 <h3>
-  Hello! :wave:	I'm Nam Chu Minh | Full Stack Developer <hr>
+  Welcome! :wave:	I'm Nam Chu Minh | Full Stack Developer <hr>
 </h3>
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="500" height="281" />
+  <a href="#">
+    <img src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Technology Background" style="width:500px;height:281px;" />
+  </a>
 </div>
 
 ### :woman_technologist: About Me :
@@ -15,7 +17,7 @@ I am a Full Stack Developer :student:	from Hanoi.
 
 - :mailbox:How to reach me: [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/namchuminhh/)
 
-- :globe_with_meridians:My Website: [https://laptrinhtudau.com/](https://laptrinhtudau.com/)
+- :globe_with_meridians:My website: [https://laptrinhtudau.com/](https://laptrinhtudau.com/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
