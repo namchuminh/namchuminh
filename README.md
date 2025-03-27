@@ -1,11 +1,6 @@
 <h3>
   Welcome! :wave:	I'm Nam Chu Minh | Full Stack Developer <hr>
 </h3>
-<div id="header" align="center">
-  <a href="#">
-    <img src="https://camo.githubusercontent.com/8ae859a127cb12e97ccb8d9d0d7b5aef3cebe3d67bfb3da76ecc2141539c3f16/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f646f58427a55464a5278706155627561717a2f67697068792e676966" alt="Technology Background" style="width:500;height:281px;" />
-  </a>
-</div>
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer :student:	from Hanoi.
@@ -43,4 +38,9 @@ I am a Full Stack Developer :student:	from Hanoi.
 
 ---
 
-### :fire: My Stats :
+### :fire: Contact Me :
+
+- Zalo: <a href="https://zalo.me/0379962045">0379962045</a>
+- Phone: <a href="tel:+84379962045">0379962045</a>
+- Facebook: https://www.facebook.com/namchuminhh/
+- Group: https://www.facebook.com/groups/thuedoancntt
