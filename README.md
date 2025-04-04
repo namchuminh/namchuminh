@@ -40,4 +40,8 @@ I am a Full Stack Developer :student:	from Hanoi.
 
 ### :fire: Contact Me :
 
+- Zalo: <a href="https://zalo.me/0379962045">0379962045</a>
+- Phone: <a href="tel:+84379962045">0379962045</a>
+- Facebook: https://www.facebook.com/namchuminhh/
+- Group: https://www.facebook.com/groups/thuedoancntt
 
